@@ -87,12 +87,10 @@ body * {
   top: 50%;
   right: 0;
   z-index: 1;
-
   transform: translateY(-50%);
 
   animation: slide-back 0.3s;
 }
-
 
 .light #switch button {
   left: 0;
@@ -169,8 +167,8 @@ ul li a:hover {
 
 #social-links a {
   display: flex;
-
   align-items: center;
+
   justify-content: center;
 
   padding: 16px;
